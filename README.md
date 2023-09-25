@@ -1,0 +1,2 @@
+# KideliciaAppMobile
+KideliciaApp
